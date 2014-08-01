@@ -7,3 +7,5 @@ In this place our function will return two matrixes.
 F is the feature vector and phi is the eigen vectors. After that we use softmax to do the following the work(whis is the 8th line). 
 
 The softmax here is as same as the one used in the UFLDL_Softmax Regression provided by Andrew Ng. 
+
+The accuracy we get is about 98.250%
