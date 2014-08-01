@@ -1,5 +1,5 @@
 Discriminative-Features-via-Generalized-Eigenvectors
-
+=====================================================
 In this code we implement the algorithm provided in the paper "Discriminative Features via Generalized Eigenvectors"
 
 In this place our function will return two matrixes. 
