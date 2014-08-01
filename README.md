@@ -1,4 +1,4 @@
-Discriminative-Features-via-Generalized-Eigenvectors
+Discriminative Features
 =====================================================
 In this code we implement the algorithm provided in the paper "Discriminative Features via Generalized Eigenvectors"
 
